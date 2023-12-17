@@ -7,7 +7,7 @@ En este repositorio se encuentran funciones para realizar la compresión de una 
 Se utilizó la librería Numpy y también Bempp-cl. Para la intalación de esta última librería, se puede realizar con el siguiente comando:
 
 
-\texttt{python setup.py install}
+$\texttt{python setup.py install}$
 
 
 Para otras formas de instalación se puede revisar el siguiente link: [bempp.com/installation.html](bempp.com/installation.html.)
